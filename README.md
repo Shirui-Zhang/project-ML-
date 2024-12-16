@@ -2,4 +2,4 @@ Building a Convolutional Neural Network (CNN) for Image Classification: Cat vs D
 
 Introduction
 
-In this project, I developed a convolutional neural network (CNN) to classify images as either a cat or a dog. Using a standard CNN architecture, I trained the model on a dataset of labeled cat and dog images. The goal was to create an efficient machine learning model capable of accurately classifying unseen images from a test set and making predictions on new, real-world images.
+In this project, I developed a convolutional neural network (CNN) to classify images as either cats or dogs. Using the standard CNN architecture, I trained the model on a dataset labeled with cat and dog images. The goal is to create an efficient machine learning model that can accurately classify image data from test sets and make predictions about images
