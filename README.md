@@ -13,7 +13,7 @@ For a detailed explanation of the project, including the model, results, and con
 
 ## Dataset
 You can access the dataset used for this project from the following link:
-[Download Dataset](https://drive.google.com/drive/folders/1t7Ic6EOIKqPD3nZlBZ0yq-ggSnEWLR?usp=share_link)
+[Download Dataset](https://drive.google.com/drive/folders/1t7Ic6EOIKqPD3nZ1ZlBZ0yq-ggSnEWLR?usp=share_link)
 
 ## Purpose of the Project
 The primary goal of this project is to build and evaluate a CNN for the classification of images as either a cat or a dog. The model aims to accurately classify new images that were not part of the training set.
