@@ -9,7 +9,7 @@ In this project, I developed a convolutional neural network (CNN) to classify im
 This repository contains the implementation of a Convolutional Neural Network (CNN) model to classify images of cats and dogs. The project demonstrates how to train a CNN, preprocess data, and make predictions on new images.
 
 ## Medium Post
-For a detailed explanation of the project, including the model, results, and conclusions, visit my [Medium article](https://medium.com/@zhangshirui24/project-cnn-for-image-classification-dd79afbd76).
+For a detailed explanation of the project, including the model, results, and conclusions, visit my [Medium article](https://medium.com/@zhangshirui24).
 
 ## Dataset
 You can access the dataset used for this project from the following link:
